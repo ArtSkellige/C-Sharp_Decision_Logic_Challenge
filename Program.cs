@@ -1,4 +1,10 @@
-﻿string permission = "Admin|Manager";
+﻿/*
+User access control system that displays messages based on permission roles (Admin/Manager) and user level.
+Tests all 5 business rule combinations by changing permission and level values.
+*/
+
+
+string permission = "Admin|Manager";
 int level = 87;
 
 /*
